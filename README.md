@@ -1,2 +1,2 @@
 # data-analysis
-data analysis repo
+my data analysis & predictive repo
